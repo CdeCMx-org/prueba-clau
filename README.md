@@ -10,7 +10,7 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 Describe de qué trata tu proyecto:
 * ¿qué problema vas a abordar?
-* ¿porqué es importante?
+* ¿por qué es importante?
 * ¿cómo se relaciona con la **ODS** asignada a tu club? 
 * ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 
